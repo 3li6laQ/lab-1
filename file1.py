@@ -1,1 +1,1 @@
-print("my major is CS!")
+print("My name is ALI")
